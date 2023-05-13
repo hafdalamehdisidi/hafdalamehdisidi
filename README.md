@@ -1,5 +1,5 @@
 ### Hi there 👋
-![![](https://github.com/hafdalamehdisidi/hafdalamehdisidi/blob/main/avatar.jpeg)](ava![Avatar](https://github.com/hafdalamehdisidi/hafdalamehdisidi/blob/main/avatar.jpeg "Avatar")
+
 <!--
 **hafdalamehdisidi/hafdalamehdisidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
