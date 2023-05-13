@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![avatar](https://github.com/hafdalamehdisidi/hafdalamehdisidi/assets/80782300/86ebb4f2-bdb6-4c7d-b77f-7504e3f49f9c)
 <!--
 **hafdalamehdisidi/hafdalamehdisidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
