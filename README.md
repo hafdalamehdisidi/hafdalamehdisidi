@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hafdala Mehdi Sidi</h1>
 <img src="https://github.com/hafdalamehdisidi/hafdalamehdisidi/assets/80782300/ebfbaf24-3fdb-47df-9a8c-ccf47d535bd4"</img>
+<h2>About me</h2>
+<p align="left">A technology lover, I am fascinated by programming and web design and I would like to expand my training in marketing and advertising with knowledge in web design and programming. Born in the Western Sahara, but I have lived in Spain since I was 10 years old. My future is to develop and work as a programmer or web designer.👨‍💻👨‍💻😊
+  I am currently learning web development with <a href="https://factoriaf5.org/"</a><b>Factoria F5</b>.</p>
 
-<h3 align="left">A technology lover, I am fascinated by programming and web design and I would like to expand my training in marketing and advertising with knowledge in web design and programming. Born in the Western Sahara, but I have lived in Spain since I was 10 years old. My future is to develop and work as a programmer or web designer.👨‍💻👨‍💻😊
-  I am currently learning web development with <a href="https://factoriaf5.org/"</a>Factoria F5.</h3>
-
-- 🌱 I’m currently learning **HTML, CSS, JS, Java, MySql, Angular...**👨‍🎓
+- 🌱 I’m currently learning <b>HTML, CSS, JS, Java, MySql, Angular...</b>👨‍🎓
 
 - 📫 How to reach me **hafdalamehdisidi@gmail.com**
 
