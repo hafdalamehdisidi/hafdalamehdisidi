@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafdala Mehdi Sidi</h1>
+<img src="https://github.com/hafdalamehdisidi/hafdalamehdisidi/assets/80782300/ebfbaf24-3fdb-47df-9a8c-ccf47d535bd4"</img>
 
 <h3 align="center">A technology lover, I am fascinated by programming and web design and I would like to expand my training in marketing and advertising with knowledge in web design and programming.</h3>
 
