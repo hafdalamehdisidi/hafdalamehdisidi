@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafdala Mehdi Sidi</h1>
-<img src="https://github.com/hafdalamehdisidi/hafdalamehdisidi/assets/80782300/0d3fe16a-7a4d-4e74-8adc-09d4f80ca8a2"</img>
-<h3 align="left">A technology lover, I am fascinated by programming and web design and I would like to expand my training in marketing and advertising with knowledge in web design and programming.Of Saharawi origin, but I currently live in Spain. I am currently doing a bootcamp with the <a href="https://factoriaf5.org/">Factoria F5</a> to continue learning about this wonderful world of web development.👨‍🎓👨‍💻</h3>
+
+<h3 align="center">A technology lover, I am fascinated by programming and web design and I would like to expand my training in marketing and advertising with knowledge in web design and programming.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Java, MySql, Angular...**
 
@@ -8,7 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/@hafdalamehdisidi _" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@hafdalamehdisidi _" height="30" width="40" /></a>
+<a href="https://twitter.com/hmehdisidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmehdisidi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hafdala-mehdi-sidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hafdala-mehdi-sidi" height="30" width="40" /></a>
+<a href="https://fb.com/hafdala mehdi sidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafdala mehdi sidi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
