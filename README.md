@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <ul><li> practicing on <a href="https://codepen.io/hafdalamehdisidi"</a>Codepen</li></ul>
-<ul><li> I read you on read you on <a href="https://twitter.com/hmehdisidi"</a>twitter</li></ul>
+<ul><li> I read you on <a href="https://twitter.com/hmehdisidi"</a>twitter</li></ul>
 <ul><li> connect with me <a href="https://www.linkedin.com/in/hafdala-mehdi-sidi"</a>linkedin</li></ul>
 
 
