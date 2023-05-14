@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning <b>HTML, CSS, JS, Java, MySql, Angular...</b>👨‍🎓
 
-- 📫 How to reach me **hafdalamehdisidi@gmail.com**
+- 📫 How to reach me  **hafdalamehdisidi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <ul><li> practicing on <a href="https://codepen.io/hafdalamehdisidi"</a>Codepen</li></ul>
