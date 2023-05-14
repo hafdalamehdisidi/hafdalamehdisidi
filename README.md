@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafdala Mehdi Sidi</h1>
-![image profile](Hafdala Mehdi Sidi.png)
+<img src="https://github.com/hafdalamehdisidi/hafdalamehdisidi/assets/80782300/0d3fe16a-7a4d-4e74-8adc-09d4f80ca8a2"</img>
 <h3 align="left">A technology lover, I am fascinated by programming and web design and I would like to expand my training in marketing and advertising with knowledge in web design and programming.Of Saharawi origin, but I currently live in Spain. I am a web development student and would like to work in the full stack craft.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Java, MySql, Angular...**
