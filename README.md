@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafdala Mehdi Sidi</h1>
+<h1 align="center">Hi 👋, I'm Sidi</h1>
 <img src="https://github.com/hafdalamehdisidi/hafdalamehdisidi/assets/80782300/ebfbaf24-3fdb-47df-9a8c-ccf47d535bd4"</img>
 <h2>About me</h2>
 <p align="left">A technology lover❤❤😍, I am fascinated by programming and web design and I would like to expand my training in marketing and advertising with knowledge in web design and programming. Born in the Western Sahara, but I have lived in Spain since I was 10 years old. My future is to develop and work as a programmer or web designer.👨‍💻👨‍💻😊
