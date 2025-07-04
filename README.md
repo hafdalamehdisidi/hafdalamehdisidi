@@ -1,19 +1,156 @@
-<h1 align="center">Hi 👋, I'm Sidi</h1>
-<img src="https://github.com/hafdalamehdisidi/hafdalamehdisidi/assets/80782300/ebfbaf24-3fdb-47df-9a8c-ccf47d535bd4"</img>
-<h2>About me</h2>
-<p align="left">A technology lover❤❤😍, I am fascinated by programming and web design and I would like to expand my training in marketing and advertising with knowledge in web design and programming. Born in the Western Sahara, but I have lived in Spain since I was 10 years old. My future is to develop and work as a programmer or web designer.👨‍💻👨‍💻😊
-  I am currently learning web development with <a href="https://factoriaf5.org/"</a><b>Factoria F5</b>.</p>
+<!-- README.md -->
 
-- 🌱 I’m currently learning <b>HTML, CSS, JS, Java, MySql, Angular...</b>👨‍🎓
+<h1 align="center" style="color:#fff;background:#0a1931;padding:20px;border-radius:10px;">
+  👾 <span style="color:#00d4ff;">¡Hola, mundo digital!</span> 👾
+  <span style="color:#00d4ff;"><b>Soy Sidi</b></span>
+</h1>
 
-- 📫 How to reach me  **hafdalamehdisidi@gmail.com**
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<ul><li> practicing on <a href="https://codepen.io/hafdalamehdisidi"</a>Codepen</li></ul>
-<ul><li> I read you on <a href="https://twitter.com/hmehdisidi"</a>twitter</li></ul>
-<ul><li> connect with me <a href="https://www.linkedin.com/in/hafdala-mehdi-sidi"</a>linkedin</li></ul>
+---
+
+<div align="center">
+
+🌍 <b>Nací en el <span style="color:#00d4ff;">Sáhara Occidental</span></b>  
+<b>Vivo en España desde el año 2003</b>
+
+💡 <b>Me fascina el <span style="color:#00d4ff;">desarrollo</span> y el <span style="color:#00d4ff;">diseño web</span></b>  
+📣 <b>Formación en <span style="color:#00d4ff;">Marketing y Publicidad</span></b>  
+💻 <b>Estudiante de <span style="color:#00d4ff;">Desarrollo de Aplicaciones Web</span></b>  
+🚀 <b>Bootcamp Fullstack Developer con <span style="color:#00d4ff;">@FactoriaF5</span></b>  
+🤖 <b>Curso SEPE en <span style="color:#00d4ff;">Inteligencia Artificial</span> aplicada al sector productivo</b>
+
+</div>
+
+---
+
+## 🚀 Tecnologías
+
+### FrontEnd
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,bootstrap" height="40"/>
+</p>
+
+### BackEnd
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php" height="40"/>
+</p>
+
+### Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" height="40" alt="MySQL, Oracle"/>
+</p>
+
+### Otras tecnologías
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,figma,linux,postman" height="40"/>
+</p>
+
+---
+
+## ⚡ Sobre mí
+
+- 🎨 Apasionado por el diseño UI/UX y la experiencia de usuario.  
+- 🧠 Siempre aprendiendo nuevas tecnologías y tendencias.  
+- 🛠️ Me encanta automatizar tareas y trabajar en entornos Linux.  
+- 🤝 Abierto a colaborar en proyectos innovadores.
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:hafdalamehdisidi@gmail.com" style="text-decoration:none; color:#00d4ff; font-weight:bold; font-size:1.1em;">
+    <img src="https://img.shields.io/badge/Gmail-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" style="vertical-align:middle; margin-right:8px;"/>
+    hafdalamehdisidi@gmail.com
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hafdalamehdisidi" style="text-decoration:none; color:#0a1931; font-weight:bold; font-size:1.1em;">
+    <img src="https://img.shields.io/badge/LinkedIn-0a1931?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="vertical-align:middle; margin-right:8px;"/>
+    Hafdala Mehdi Sidi
+  </a>
+</p>
 
 
+<!-- ENGLISH VERSION -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h1 align="center" style="color:#fff;background:#0a1931;padding:20px;border-radius:10px;">
+  👾 <span style="color:#00d4ff;">Hello, digital world!</span> 👾
+  <span style="color:#00d4ff;"><b>I´m Sidi</b></span>
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</p>
+
+---
+
+<div align="center">
+
+🌍 <b>Born in <span style="color:#00d4ff;">Western Sahara</span></b>  
+<b>Living in Spain since 2003</b>
+
+💡 <b>Passionate about <span style="color:#00d4ff;">web development</span> and <span style="color:#00d4ff;">design</span></b>  
+📣 <b>Background in <span style="color:#00d4ff;">Marketing and Advertising</span></b>  
+💻 <b>Currently studying <span style="color:#00d4ff;">Web Application Development</span></b>  
+🚀 <b>Fullstack Developer Bootcamp at <span style="color:#00d4ff;">@FactoriaF5</span></b>  
+🤖 <b>SEPE course on <span style="color:#00d4ff;">Artificial Intelligence</span> applied to the productive sector</b>
+
+</div>
+
+---
+
+## 🚀 Technologies
+
+### FrontEnd
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,bootstrap" height="40"/>
+</p>
+
+### BackEnd
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" height="40" alt="MySQL, Oracle"/>
+</p>
+
+
+### Other technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,figma,linux,postman" height="40"/>
+</p>
+
+---
+
+## ⚡ About me
+
+- 🎨 Passionate about UI/UX design and user experience.  
+- 🧠 Always learning new technologies and trends.  
+- 🛠️ Love automating tasks and working in Linux environments.  
+- 🤝 Open to collaborate on innovative projects.
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:hafdalamehdisidi@gmail.com" style="text-decoration:none; color:#00d4ff; font-weight:bold; font-size:1.1em;">
+    <img src="https://img.shields.io/badge/Gmail-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" style="vertical-align:middle; margin-right:8px;"/>
+    hafdalamehdisidi@gmail.com
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hafdalamehdisidi" style="text-decoration:none; color:#0a1931; font-weight:bold; font-size:1.1em;">
+    <img src="https://img.shields.io/badge/LinkedIn-0a1931?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="vertical-align:middle; margin-right:8px;"/>
+    Hafdala Mehdi Sidi
+  </a>
+</p>
+
+<p align="center" style="color:#00d4ff; font-style: italic; font-size: 1.2em;">
+  “<b>Technology is not just code, it is the tool to create the future we imagine.</b>” 🚀
+</p>
+
+<p align="center" style="color:#00d4ff;">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
