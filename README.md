@@ -26,9 +26,10 @@
 <summary><h2>🇪🇸 &nbsp;<code>SYSTEM.LOG // Sobre Mí</code></h2></summary>
 
 ```java
+// ☕ Java — ProfileInit.java
+
 public class ProfileInit {
     public static void main(String[] args) {
-
         Developer mehdi = new Developer("Mehdi Sidi");
         mehdi.setUbicacion("España 🇪🇸");
         mehdi.setRol("Desarrollador Full Stack");
@@ -40,6 +41,78 @@ public class ProfileInit {
         System.out.println("[ESTADO]    → Abierto a nuevos proyectos cyber 🟢");
     }
 }
+```
+
+```javascript
+// ⚡ JavaScript — profileInit.js
+
+const mehdi = {
+  nombre    : "Mehdi Sidi",
+  ubicacion : "España 🇪🇸",
+  rol       : "Desarrollador Full Stack",
+  enfoque   : "Soluciones de Alta Disponibilidad",
+  mision    : "Compilar ideas abstractas en código eficiente, escalable y limpio.",
+};
+
+console.log(`[EN LÍNEA]  → ${mehdi.nombre} listo para construir.`);
+console.log(`[OBJETIVO]  → Arquitectura CMS avanzada | Entornos de diseño dinámico`);
+console.log(`[ESTADO]    → Abierto a nuevos proyectos cyber 🟢`);
+```
+
+```php
+<?php
+// 🐘 PHP — profile_init.php
+
+$mehdi = [
+    "nombre"    => "Mehdi Sidi",
+    "ubicacion" => "España 🇪🇸",
+    "rol"       => "Desarrollador Full Stack",
+    "enfoque"   => "Soluciones de Alta Disponibilidad",
+    "mision"    => "Compilar ideas abstractas en código eficiente, escalable y limpio.",
+];
+
+echo "[EN LÍNEA]  → {$mehdi['nombre']} listo para construir.\n";
+echo "[OBJETIVO]  → Arquitectura CMS avanzada | Entornos de diseño dinámico\n";
+echo "[ESTADO]    → Abierto a nuevos proyectos cyber 🟢\n";
+?>
+```
+
+```typescript
+// 🔷 TypeScript — profileInit.ts
+
+interface Developer {
+  nombre    : string;
+  ubicacion : string;
+  rol       : string;
+  enfoque   : string;
+  mision    : string;
+}
+
+const mehdi: Developer = {
+  nombre    : "Mehdi Sidi",
+  ubicacion : "España 🇪🇸",
+  rol       : "Desarrollador Full Stack",
+  enfoque   : "Soluciones de Alta Disponibilidad",
+  mision    : "Compilar ideas abstractas en código eficiente, escalable y limpio.",
+};
+
+console.log(`[EN LÍNEA]  → ${mehdi.nombre} listo para construir.`);
+console.log(`[OBJETIVO]  → Arquitectura CMS avanzada | Entornos de diseño dinámico`);
+console.log(`[ESTADO]    → Abierto a nuevos proyectos cyber 🟢`);
+```
+
+```bash
+#!/bin/bash
+# 🖥️ Bash — profile_init.sh
+
+NOMBRE="Mehdi Sidi"
+UBICACION="España 🇪🇸"
+ROL="Desarrollador Full Stack"
+ENFOQUE="Soluciones de Alta Disponibilidad"
+
+echo "[EN LÍNEA]  → $NOMBRE listo para construir."
+echo "[OBJETIVO]  → Arquitectura CMS avanzada | Entornos de diseño dinámico"
+echo "[ESTADO]    → Abierto a nuevos proyectos cyber 🟢"
 ```
 
 ### 🛠️ `CORE_STACK // Mi Ecosistema Tecnológico`
@@ -86,18 +159,23 @@ public class ProfileInit {
 
 ### ⏳ `CURRENT_UPGRADE // En Proceso de Aprendizaje`
 
-```java
-List<String> objetivos = Arrays.asList(
-    "Elementor Pro",
-    "Arquitectura CMS Avanzada",
-    "Entornos de Diseño Dinámico",
-    "WordPress Headless",
-    "Optimización de Rendimiento"
-);
+```typescript
+// 🔷 TypeScript — upgrade.ts
 
-for (String habilidad : objetivos) {
-    Thread.sleep(43200000); // Descargando nuevos paquetes de conocimiento a diario...
-    System.out.println("[DESCARGANDO] → " + habilidad + "  ████████░░  80%");
+const objetivos: string[] = [
+  "Elementor Pro",
+  "Arquitectura CMS Avanzada",
+  "Entornos de Diseño Dinámico",
+  "WordPress Headless",
+  "Optimización de Rendimiento",
+];
+
+const delay = (ms: number): Promise<void> =>
+  new Promise(resolve => setTimeout(resolve, ms));
+
+for (const habilidad of objetivos) {
+  await delay(43200000); // Descargando nuevos paquetes de conocimiento a diario...
+  console.log(`[DESCARGANDO] → ${habilidad}  ████████░░  80%`);
 }
 ```
 
@@ -119,9 +197,10 @@ for (String habilidad : objetivos) {
 <summary><h2>🇺🇸 &nbsp;<code>SYSTEM.LOG // About Me</code></h2></summary>
 
 ```java
+// ☕ Java — ProfileInit.java
+
 public class ProfileInit {
     public static void main(String[] args) {
-
         Developer mehdi = new Developer("Mehdi Sidi");
         mehdi.setLocation("Spain 🇪🇸");
         mehdi.setRole("Full Stack Developer");
@@ -133,6 +212,78 @@ public class ProfileInit {
         System.out.println("[STATUS]   → Open to new cyber projects 🟢");
     }
 }
+```
+
+```javascript
+// ⚡ JavaScript — profileInit.js
+
+const mehdi = {
+  name     : "Mehdi Sidi",
+  location : "Spain 🇪🇸",
+  role     : "Full Stack Developer",
+  focus    : "High-Availability Solutions",
+  mission  : "Compiling abstract ideas into efficient, scalable and clean code.",
+};
+
+console.log(`[ONLINE]   → ${mehdi.name} is ready to build.`);
+console.log(`[TARGET]   → Advanced CMS Architecture | Dynamic Design Environments`);
+console.log(`[STATUS]   → Open to new cyber projects 🟢`);
+```
+
+```php
+<?php
+// 🐘 PHP — profile_init.php
+
+$mehdi = [
+    "name"     => "Mehdi Sidi",
+    "location" => "Spain 🇪🇸",
+    "role"     => "Full Stack Developer",
+    "focus"    => "High-Availability Solutions",
+    "mission"  => "Compiling abstract ideas into efficient, scalable and clean code.",
+];
+
+echo "[ONLINE]   → {$mehdi['name']} is ready to build.\n";
+echo "[TARGET]   → Advanced CMS Architecture | Dynamic Design Environments\n";
+echo "[STATUS]   → Open to new cyber projects 🟢\n";
+?>
+```
+
+```typescript
+// 🔷 TypeScript — profileInit.ts
+
+interface Developer {
+  name     : string;
+  location : string;
+  role     : string;
+  focus    : string;
+  mission  : string;
+}
+
+const mehdi: Developer = {
+  name     : "Mehdi Sidi",
+  location : "Spain 🇪🇸",
+  role     : "Full Stack Developer",
+  focus    : "High-Availability Solutions",
+  mission  : "Compiling abstract ideas into efficient, scalable and clean code.",
+};
+
+console.log(`[ONLINE]   → ${mehdi.name} is ready to build.`);
+console.log(`[TARGET]   → Advanced CMS Architecture | Dynamic Design Environments`);
+console.log(`[STATUS]   → Open to new cyber projects 🟢`);
+```
+
+```bash
+#!/bin/bash
+# 🖥️ Bash — profile_init.sh
+
+NAME="Mehdi Sidi"
+LOCATION="Spain 🇪🇸"
+ROLE="Full Stack Developer"
+FOCUS="High-Availability Solutions"
+
+echo "[ONLINE]   → $NAME is ready to build."
+echo "[TARGET]   → Advanced CMS Architecture | Dynamic Design Environments"
+echo "[STATUS]   → Open to new cyber projects 🟢"
 ```
 
 ### 🛠️ `CORE_STACK // My Tech Ecosystem`
@@ -179,18 +330,23 @@ public class ProfileInit {
 
 ### ⏳ `CURRENT_UPGRADE // Currently Learning`
 
-```java
-List<String> targets = Arrays.asList(
-    "Elementor Pro",
-    "Advanced CMS Architecture",
-    "Dynamic Design Environments",
-    "WordPress Headless",
-    "Performance Optimization"
-);
+```typescript
+// 🔷 TypeScript — upgrade.ts
 
-for (String skill : targets) {
-    Thread.sleep(43200000); // Downloading new knowledge packages daily...
-    System.out.println("[DOWNLOADING] → " + skill + "  ████████░░  80%");
+const targets: string[] = [
+  "Elementor Pro",
+  "Advanced CMS Architecture",
+  "Dynamic Design Environments",
+  "WordPress Headless",
+  "Performance Optimization",
+];
+
+const delay = (ms: number): Promise<void> =>
+  new Promise(resolve => setTimeout(resolve, ms));
+
+for (const skill of targets) {
+  await delay(43200000); // Downloading new knowledge packages daily...
+  console.log(`[DOWNLOADING] → ${skill}  ████████░░  80%`);
 }
 ```
 
@@ -216,7 +372,7 @@ for (String skill : targets) {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafdalamehdisidi&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff9d&ring=00b4d8&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=hafdalamehdisidi&theme=dark&hide_border=true&background=0d1117&stroke=00ff9d&ring=00b4d8&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
@@ -232,16 +388,54 @@ for (String skill : targets) {
 ## `> END_OF_LINE // CONTACT_NODES`
 
 ```java
-Developer identity = new Developer();
-identity.setName("Mehdi Sidi");
-identity.setAlias("hafdalamehdisidi");
+// ☕ Java — Contact.java
 
-identity.setLinkedIn("linkedin.com/in/hafdalamehdisidi");
-identity.setEmail("hafdalamehdisidi@gmail.com");
-identity.setGitHub("github.com/hafdalamehdisidi");
+public class Contact {
+    public static void main(String[] args) {
+        Developer identity = new Developer();
+        identity.setName("Mehdi Sidi");
+        identity.setAlias("hafdalamehdisidi");
+        identity.setLinkedIn("linkedin.com/in/hafdalamehdisidi");
+        identity.setEmail("hafdalamehdisidi@gmail.com");
+        identity.setGitHub("github.com/hafdalamehdisidi");
 
-System.out.println(">> Connection established successfully. ✅");
-System.out.println(">> Ready to compile new projects together. 🚀");
+        System.out.println(">> Connection established successfully. ✅");
+        System.out.println(">> Ready to compile new projects together. 🚀");
+    }
+}
+```
+
+```javascript
+// ⚡ JavaScript — contact.js
+
+const identity = {
+  name     : "Mehdi Sidi",
+  alias    : "hafdalamehdisidi",
+  linkedIn : "linkedin.com/in/hafdalamehdisidi",
+  email    : "hafdalamehdisidi@gmail.com",
+  gitHub   : "github.com/hafdalamehdisidi",
+};
+
+console.log(">> Connection established successfully. ✅");
+console.log(">> Ready to compile new projects together. 🚀");
+console.log(`>> Reach me at: ${identity.email}`);
+```
+
+```bash
+#!/bin/bash
+# 🖥️ Bash — contact.sh
+
+declare -A IDENTITY=(
+  [name]="Mehdi Sidi"
+  [alias]="hafdalamehdisidi"
+  [linkedin]="linkedin.com/in/hafdalamehdisidi"
+  [email]="hafdalamehdisidi@gmail.com"
+  [github]="github.com/hafdalamehdisidi"
+)
+
+echo ">> Connection established successfully. ✅"
+echo ">> Ready to compile new projects together. 🚀"
+echo ">> Reach me at: ${IDENTITY[email]}"
 ```
 
 <div align="center">
