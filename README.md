@@ -365,8 +365,8 @@ for (const skill of targets) {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafdalamehdisidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00b4d8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafdalamehdisidi&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hafdalamehdisidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00b4d8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hafdalamehdisidi&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9"/>
 
 </div>
 
