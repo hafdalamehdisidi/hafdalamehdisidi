@@ -365,19 +365,6 @@ for (const skill of targets) {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hafdalamehdisidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00b4d8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hafdalamehdisidi&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=hafdalamehdisidi&theme=dark&hide_border=true&background=0d1117&stroke=00ff9d&ring=00b4d8&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafdalamehdisidi&bg_color=0d1117&color=00ff9d&line=00b4d8&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
