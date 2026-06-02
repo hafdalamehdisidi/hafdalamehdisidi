@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- BADGES DE STATUS -->
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00FF9D?style=for-the-badge&labelColor=0d1117&color=00FF9D)
 ![Location](https://img.shields.io/badge/LOCATION-SPAIN_🇪🇸-00B4D8?style=for-the-badge&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=hafdalamehdisidi&style=for-the-badge&color=00ff9d&labelColor=0d1117&label=PROFILE+VIEWS)
@@ -19,7 +18,105 @@
 
 ---
 
-## `> SYSTEM.LOG // INIT_PROFILE`
+<!-- ████████████████████████████████████████ -->
+<!-- ███               ESPAÑOL             ███ -->
+<!-- ████████████████████████████████████████ -->
+
+<details open>
+<summary><h2>🇪🇸 &nbsp;<code>SYSTEM.LOG // Sobre Mí</code></h2></summary>
+
+```java
+public class ProfileInit {
+    public static void main(String[] args) {
+
+        Developer mehdi = new Developer("Mehdi Sidi");
+        mehdi.setUbicacion("España 🇪🇸");
+        mehdi.setRol("Desarrollador Full Stack");
+        mehdi.setEnfoque("Soluciones de Alta Disponibilidad");
+        mehdi.setMision("Compilar ideas abstractas en código eficiente, escalable y limpio.");
+
+        System.out.println("[EN LÍNEA]  → " + mehdi.getNombre() + " listo para construir.");
+        System.out.println("[OBJETIVO]  → Arquitectura CMS avanzada | Entornos de diseño dinámico");
+        System.out.println("[ESTADO]    → Abierto a nuevos proyectos cyber 🟢");
+    }
+}
+```
+
+### 🛠️ `CORE_STACK // Mi Ecosistema Tecnológico`
+
+#### ⚡ `package frontend;`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,react,tailwind,angular&theme=dark" />
+</p>
+<p align="left">
+  <img alt="Flexbox" src="https://img.shields.io/badge/Flexbox-CSS3-00B4D8?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117"/>
+  <img alt="CSS Grid" src="https://img.shields.io/badge/CSS_Grid-Layout-00FF9D?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117"/>
+  <img alt="Angular Material" src="https://img.shields.io/badge/Angular_Material-UI-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=0d1117"/>
+</p>
+
+#### 🔧 `package backend;`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,php&theme=dark" />
+</p>
+<p align="left">
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-Auth-00FF9D?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0d1117"/>
+</p>
+
+#### 🗄️ `package databases;`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  &nbsp;
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0d1117"/>
+</p>
+
+#### 🛠️ `package operations.tools;`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,bash,azure&theme=dark" />
+</p>
+<p align="left">
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0d1117"/>
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0d1117"/>
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0d1117"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black&labelColor=0d1117"/>
+</p>
+
+### ⏳ `CURRENT_UPGRADE // En Proceso de Aprendizaje`
+
+```java
+List<String> objetivos = Arrays.asList(
+    "Elementor Pro",
+    "Arquitectura CMS Avanzada",
+    "Entornos de Diseño Dinámico",
+    "WordPress Headless",
+    "Optimización de Rendimiento"
+);
+
+for (String habilidad : objetivos) {
+    Thread.sleep(43200000); // Descargando nuevos paquetes de conocimiento a diario...
+    System.out.println("[DESCARGANDO] → " + habilidad + "  ████████░░  80%");
+}
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
+  &nbsp;
+  <img alt="Elementor" src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white&labelColor=0d1117"/>
+</p>
+
+</details>
+
+---
+
+<!-- ████████████████████████████████████████ -->
+<!-- ███               ENGLISH             ███ -->
+<!-- ████████████████████████████████████████ -->
+
+<details>
+<summary><h2>🇺🇸 &nbsp;<code>SYSTEM.LOG // About Me</code></h2></summary>
 
 ```java
 public class ProfileInit {
@@ -31,18 +128,16 @@ public class ProfileInit {
         mehdi.setFocus("High-Availability Solutions");
         mehdi.setMission("Compiling abstract ideas into efficient, scalable and clean code.");
 
-        System.out.println("[ONLINE]  → " + mehdi.getName() + " is ready to build.");
-        System.out.println("[TARGET]  → Arquitectura CMS avanzada | Entornos de diseño dinámico");
-        System.out.println("[STATUS]  → Open to new cyber projects 🟢");
+        System.out.println("[ONLINE]   → " + mehdi.getName() + " is ready to build.");
+        System.out.println("[TARGET]   → Advanced CMS Architecture | Dynamic Design Environments");
+        System.out.println("[STATUS]   → Open to new cyber projects 🟢");
     }
 }
 ```
 
----
+### 🛠️ `CORE_STACK // My Tech Ecosystem`
 
-## `> CORE_STACK // TECH_ECOSYSTEM`
-
-### ⚡ `package frontend;`
+#### ⚡ `package frontend;`
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,react,tailwind,angular&theme=dark" />
@@ -53,7 +148,7 @@ public class ProfileInit {
   <img alt="Angular Material" src="https://img.shields.io/badge/Angular_Material-UI-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=0d1117"/>
 </p>
 
-### 🔧 `package backend;`
+#### 🔧 `package backend;`
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,php&theme=dark" />
@@ -62,17 +157,18 @@ public class ProfileInit {
   <img alt="JWT" src="https://img.shields.io/badge/JWT-Auth-00FF9D?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0d1117"/>
 </p>
 
-### 🗄️ `package databases;`
+#### 🗄️ `package databases;`
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  &nbsp;
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0d1117"/>
 </p>
 
-### 🛠️ `package operations.tools;`
+#### 🛠️ `package operations.tools;`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,bash,azure&theme=dark" />
 </p>
 <p align="left">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0d1117"/>
@@ -81,9 +177,7 @@ public class ProfileInit {
   <img alt="Notion" src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black&labelColor=0d1117"/>
 </p>
 
----
-
-## `> CURRENT_UPGRADE // DOWNLOADING_PACKAGES`
+### ⏳ `CURRENT_UPGRADE // Currently Learning`
 
 ```java
 List<String> targets = Arrays.asList(
@@ -95,7 +189,7 @@ List<String> targets = Arrays.asList(
 );
 
 for (String skill : targets) {
-    Thread.sleep(43200000); // Descargando nuevo módulo...
+    Thread.sleep(43200000); // Downloading new knowledge packages daily...
     System.out.println("[DOWNLOADING] → " + skill + "  ████████░░  80%");
 }
 ```
@@ -106,8 +200,11 @@ for (String skill : targets) {
   <img alt="Elementor" src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white&labelColor=0d1117"/>
 </p>
 
+</details>
+
 ---
 
+<!-- STATS -->
 ## `> SYSTEM_METRICS // CORE_ANALYTICS`
 
 <div align="center">
@@ -131,6 +228,7 @@ for (String skill : targets) {
 
 ---
 
+<!-- CONTACT -->
 ## `> END_OF_LINE // CONTACT_NODES`
 
 ```java
