@@ -21,29 +21,29 @@ public class ProfileInit {
 ### 🛠️ CORE_STACK // Mi Ecosistema Tecnológico
 
 #### `package frontend;`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **HTML5** `// Estructura cuántica web`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **CSS3** `// Capa visual (Flexbox & Grid Matrix)`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **JavaScript (ES6+)** `// Lógica de motores asíncronos`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **SASS** `// Preprocesamiento hiperestilizado`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **Angular & Material** `// Framework reactivo de nivel empresarial`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **React Core** `// Interfaz basada en componentes eficientes`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **Tailwind CSS** `// Inyección de estilos por microclases`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **Bootstrap** `// Malla adaptativa multienvironment`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **HTML5** `// Estructura cuántica web`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **CSS3** `// Capa visual (Flexbox & Grid Matrix)`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **JavaScript (ES6+)** `// Lógica de motores asíncronos`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **SASS** `// Preprocesamiento hiperestilizado`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **Angular & Material** `// Framework reactivo de nivel empresarial`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **React Core** `// Interfaz basada en componentes eficientes`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **Tailwind CSS** `// Inyección de estilos por microclases`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **Bootstrap** `// Malla adaptativa multienvironment`
 
 #### `package backend;`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **Java Virtual Machine** `// Compilación robusta multinivel`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **Spring Boot Engine** `// Ecosistema para REST APIs e hilos de servicio`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **PHP Framework** `// Backend dinámico hiperconectado`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **Java Virtual Machine** `// Compilación robusta multinivel`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **Spring Boot Engine** `// Ecosistema para REST APIs e hilos de servicio`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **PHP Framework** `// Backend dinámico hiperconectado`
 
 #### `package databases;`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **MySQL** `// Persistencia de datos relacionales`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **Oracle DB Enterprise** `// Almacenamiento masivo indexado`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **MySQL** `// Persistencia de datos relacionales`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **Oracle DB Enterprise** `// Almacenamiento masivo indexado`
 
 #### `package operations.tools;`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **Jira** `// Orquestación ágil de sprints`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **Trello** `// Paneles visuales Kanban`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **Jira** `// Orquestación ágil de sprints`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **Trello** `// Paneles visuales Kanban`
 * <img src="https://vectorlogo.zone" width="20" height="20"/> **Postman** `// Banco de pruebas e inyección de payloads`
-* <img src="https://githubusercontent.com" width="20" height="20"/> **Git / GitHub Nexus** `// Control de versiones distribuido`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **Git / GitHub Nexus** `// Control de versiones distribuido`
 * <img src="https://vectorlogo.zone" width="20" height="20"/> **Salesforce Cloud** `// Integración en ecosistema CRM`
 * 🌐 **RESTful Architecture** `// Protocolo de transmisión de estados`
 
@@ -54,7 +54,7 @@ while(skills.getTargets().hasMoreElements()) {
     Thread.sleep(43200000); // Descargando nuevos paquetes de conocimiento a diario
 }
 ```
-* <img src="https://githubusercontent.com" width="20" height="20"/> **WordPress** `// Descargando arquitectura CMS avanzada y ecosistema PHP`
+* <img src="https://jsdelivr.net" width="20" height="20"/> **WordPress** `// Descargando arquitectura CMS avanzada y ecosistema PHP`
 * <img src="https://vectorlogo.zone" width="20" height="20"/> **Elementor** `// Compilando layouts visuales e interfaces dinámicas`
 
 ---
@@ -89,7 +89,7 @@ public class ProfileInit {
 
 ```java
 Developer Identity = new Developer();
-Identity.setName("Mehdi Sidi"); // Modifica tu nombre aquí si lo deseas
+Identity.setName("Mehdi Sidi");
 ```
 
 * **Network Node:** <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>
