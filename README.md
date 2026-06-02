@@ -89,11 +89,11 @@ public class ProfileInit {
 
 ```java
 Developer Identity = new Developer();
-Identity.setName("Tu Nombre Completo");
+Identity.setName("Mehdi Sidi"); // Modifica tu nombre aquí si lo deseas
 ```
 
-* **Network Node:** [![LinkedIn](https://shields.io)](www.linkedin.com/in/hafdalamehdisidi)
-* **Data Transmission:** [![Email](https://shields.io)](hafdalamehdisidi@gmail.com)
+* **Network Node:** <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>
+* **Data Transmission:** <a href="mailto:hafdalamehdisidi@gmail.com"><img src="https://shields.io" alt="Email"/></a>
 
 ```java
 // Connection established successfully.
