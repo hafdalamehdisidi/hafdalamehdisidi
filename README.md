@@ -12,7 +12,6 @@
 
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00FF9D?style=for-the-badge&labelColor=0d1117&color=00FF9D)
 ![Location](https://img.shields.io/badge/LOCATION-SPAIN_🇪🇸-00B4D8?style=for-the-badge&labelColor=0d1117)
-![Profile Views](https://komarev.com/ghpvc/?username=hafdalamehdisidi&style=for-the-badge&color=00ff9d&labelColor=0d1117&label=PROFILE+VIEWS)
 
 </div>
 
